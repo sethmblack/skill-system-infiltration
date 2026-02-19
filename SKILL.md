@@ -3,8 +3,9 @@ name: system-infiltration
 description: Work within systems to critique or transform them from inside—understanding rules, finding blind spots, entering through legitimate channels, planting critique, and letting the system's response pr...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5119
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - system-infiltration
